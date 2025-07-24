@@ -46,5 +46,5 @@ Combined and labeled for binary classification.
 
 1. Clone the repo  
 ```bash
-git clone https://github.com/yourusername/Fake-News-Detection-ML.git
+git clone https://github.com/rhacore/Fake-News-Detection-ML.git
 cd Fake-News-Detection-ML
